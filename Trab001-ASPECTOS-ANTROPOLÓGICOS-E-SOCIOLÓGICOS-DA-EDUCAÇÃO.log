@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.11)  21 APR 2020 20:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.11)  21 APR 2020 20:24
 entering extended mode
-**./modelo-abntex2.tex
-(modelo-abntex2.tex
+**./Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.tex
+(Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-04-06>
 (C:\Prog\MikTex29\tex/latex/abntex2\abntex2.cls
@@ -1585,19 +1585,24 @@ Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count407
 ))
-\modelo-abntex2@idxfile=\write5
-\openout5 = `modelo-abntex2.idx'.
+\Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO@idxfile=\write5
+
+\openout5 = `Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.idx
+'.
 
 
-Writing index file modelo-abntex2.idx 
-(modelo-abntex2.aux (PreTextuais/Capa.aux) (PreTextuais/FolhadeRosto.aux)
+Writing index file Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇ�
+�O.idx 
+(Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.aux
+(PreTextuais/Capa.aux) (PreTextuais/FolhadeRosto.aux)
 (PreTextuais/FichaCatalografica.aux) (PreTextuais/FolhadeAprovacao.aux)
 (PreTextuais/Dedicatoria.aux) (PreTextuais/Agradecimentos.aux)
 (PreTextuais/Epigrafe.aux) (PreTextuais/Resumo.aux) (PreTextuais/Abstract.aux)
 (PreTextuais/Listas.aux) (PreTextuais/Sumario.aux) (Textuais/Capitulo01.aux)
 (Textuais/Capitulo02.aux) (Textuais/Capitulo03.aux) (PosTextuais/Apendices.aux)
 (PosTextuais/Anexos.aux))
-\openout1 = `modelo-abntex2.aux'.
+\openout1 = `Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.aux
+'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
@@ -1907,7 +1912,11 @@ l.103 \include{PreTextuais/FichaCatalografica}
 ])
 \openout2 = `PreTextuais/Resumo.aux'.
 
- (PreTextuais/Resumo.tex [11
+ (PreTextuais/Resumo.tex
+
+LaTeX Warning: Citation `NBR6028:2003' on page 11 undefined on input line 8.
+
+[11
 
 
 ] [12
@@ -1918,55 +1927,56 @@ l.103 \include{PreTextuais/FichaCatalografica}
  (PreTextuais/Abstract.tex [13
 
 
-]
-[14
+] [14
 
 ])
 \openout2 = `PreTextuais/Listas.aux'.
 
- (PreTextuais/Listas.tex (modelo-abntex2.lof) [15
+ (PreTextuais/Listas.tex
+(Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.lof) [15
 
 
-] [16
+]
+[16
 
 ])
 \openout2 = `PreTextuais/Sumario.aux'.
 
-
-(PreTextuais/Sumario.tex (modelo-abntex2.toc
+ (PreTextuais/Sumario.tex
+(Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <14.4> on input line 32.
 ) [17
 
 
-] [18
+]
+[18
 
 ])
 \openout2 = `Textuais/Capitulo01.aux'.
 
-
-(Textuais/Capitulo01.tex
+ (Textuais/Capitulo01.tex
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
 4.
  (C:\Prog\MikTex29\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [19
+)
+[19
 
 
 
-]
-[20]
-<cor_horizontal_pdf.pdf, id=226, 2358.2001pt x 514.71399pt>
+] [20]
+<cor_horizontal_pdf.pdf, id=223, 2358.2001pt x 514.71399pt>
 File: cor_horizontal_pdf.pdf Graphic file (type pdf)
 <use cor_horizontal_pdf.pdf>
 Package pdftex.def Info: cor_horizontal_pdf.pdf  used on input line 99.
 (pdftex.def)             Requested size: 227.5pt x 49.6523pt.
-<cor_vertical_pdf.pdf, id=227, 2455.00194pt x 1992.18277pt>
+<cor_vertical_pdf.pdf, id=224, 2455.00194pt x 1992.18277pt>
 File: cor_vertical_pdf.pdf Graphic file (type pdf)
 <use cor_vertical_pdf.pdf>
 Package pdftex.def Info: cor_vertical_pdf.pdf  used on input line 109.
 (pdftex.def)             Requested size: 113.75pt x 92.289pt.
-<cor_horizontal_ass_1_pdf.pdf, id=228, 2475.0669pt x 1004.70357pt>
+<cor_horizontal_ass_1_pdf.pdf, id=225, 2475.0669pt x 1004.70357pt>
 File: cor_horizontal_ass_1_pdf.pdf Graphic file (type pdf)
 <use cor_horizontal_ass_1_pdf.pdf>
 Package pdftex.def Info: cor_horizontal_ass_1_pdf.pdf  used on input line 114.
@@ -2000,20 +2010,48 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [30]
 \openout2 = `Textuais/Capitulo03.aux'.
 
- (Textuais/Capitulo03.tex) [31
+ (Textuais/Capitulo03.tex
+
+LaTeX Warning: Citation `abntex2classe' on page 31 undefined on input line 16.
+
+
+LaTeX Warning: Citation `abntex2classe' on page 31 undefined on input line 16.
+
+
+LaTeX Warning: Citation `abntex2-wiki-como-customizar' on page 31 undefined on 
+input line 31.
+
+
+LaTeX Warning: Citation `abntex2classe' on page 31 undefined on input line 34.
+
+
+LaTeX Warning: Citation `abntex2cite' on page 31 undefined on input line 34.
+
+
+LaTeX Warning: Citation `abntex2cite-alf' on page 31 undefined on input line 34
+.
+
+
+LaTeX Warning: Citation `memoir' on page 31 undefined on input line 35.
+
+) [31
 
 
 
-] (modelo-abntex2.bbl (modelo-abntex2.brf)
+] (Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.bbl
+(Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.brf)
 \tf@brf=\write6
-\openout6 = `modelo-abntex2.brf'.
+\openout6 = `Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.brf
+'.
 
-
-[32
+ [32
 
 
 ]
 bibitemlist
+
+LaTeX Warning: Empty `thebibliography' environment on input line 8.
+
 ) [33]
 \openout2 = `PosTextuais/Apendices.aux'.
 
@@ -2048,14 +2086,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ] 
 AED: lastpage setting LastPage
 \tf@lof=\write7
-\openout7 = `modelo-abntex2.lof'.
+\openout7 = `Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.lof
+'.
 
 \tf@toc=\write8
-\openout8 = `modelo-abntex2.toc'.
+\openout8 = `Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.toc
+'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
-(modelo-abntex2.aux (PreTextuais/Capa.aux) (PreTextuais/FolhadeRosto.aux)
+(Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃO.aux
+(PreTextuais/Capa.aux) (PreTextuais/FolhadeRosto.aux)
 (PreTextuais/FichaCatalografica.aux) (PreTextuais/FolhadeAprovacao.aux)
 (PreTextuais/Dedicatoria.aux) (PreTextuais/Agradecimentos.aux)
 (PreTextuais/Epigrafe.aux) (PreTextuais/Resumo.aux) (PreTextuais/Abstract.aux)
@@ -2064,22 +2105,26 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
 (PosTextuais/Anexos.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
-Package rerunfilecheck Info: File `modelo-abntex2.brf' has not changed.
+Package rerunfilecheck Info: File `Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓG
+ICOS-DA-EDUCAÇÃO.brf' has not changed.
 (rerunfilecheck)             Checksum: AAB7D2D40C6B971B418215B992A61D76;468.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
  ) 
 Here is how much of TeX's memory you used:
- 56368 strings out of 480892
- 1376785 string characters out of 2913452
- 2216016 words of memory out of 3000000
- 70938 multiletter control sequences out of 15000+200000
- 697593 words of font info for 206 fonts, out of 3000000 for 9000
+ 56345 strings out of 480892
+ 1380367 string characters out of 2913452
+ 2215137 words of memory out of 3000000
+ 70927 multiletter control sequences out of 15000+200000
+ 697244 words of font info for 203 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 82i,15n,138p,967b,896s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 82i,15n,138p,1015b,896s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Prog/MikTex29/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Prog/MikTex29/fonts/en
 c/dvips/lm/lm-mathex.enc}{C:/Prog/MikTex29/fonts/enc/dvips/lm/lm-mathit.enc}{C:
 /Prog/MikTex29/fonts/enc/dvips/lm/lm-rm.enc}{C:/Prog/MikTex29/fonts/enc/dvips/l
@@ -2097,9 +2142,10 @@ e1/public/lm/lmss12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmssbx10.pfb><C
 :/Prog/MikTex29/fonts/type1/public/lm/lmsy10.pfb><C:/Prog/MikTex29/fonts/type1/
 public/lm/lmsy8.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmtt10.pfb><C:/Prog
 /MikTex29/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on modelo-abntex2.pdf (43 pages, 1213173 bytes).
+Output written on Trab001-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCAÇÃ
+O.pdf (43 pages, 1202086 bytes).
 PDF statistics:
- 620 PDF objects out of 1000 (max. 8388607)
- 102 named destinations out of 1000 (max. 500000)
+ 584 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
  55663 words of extra memory for PDF output out of 61914 (max. 10000000)
 
