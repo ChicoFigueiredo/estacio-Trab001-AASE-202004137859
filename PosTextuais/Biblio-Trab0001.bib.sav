@@ -26,4 +26,85 @@
   title        = {Observação e Análise SociológicaReflexiva das Relações entre Sociedade e o Meio Ambiente},
 }
 
+@Online{EstadodeEducacao20200219Parque,
+  author  = {Secretaria de Estado de Educação},
+  editor  = {Secretaria de Estado de Educação},
+  date    = {2020-02-19},
+  title   = {Resultado do Projeto Parque Educador está disponível},
+  url     = {http://www.se.df.gov.br/escola-reforca-aprendizagem-com-licoes-que-vao-da-horta-a-mesa/},
+  urldate = {2020-05-16},
+}
+
+@Online{AgenciaBrasilia20200424Horta,
+  author  = {Agência Brasilia},
+  editor  = {Agência Brasilia},
+  date    = {2020-04-28},
+  title   = {Acordo estuda forma para recolhimento de eletroeletrônicos},
+  url     = {https://www.agenciabrasilia.df.gov.br/2020/04/28/acordo-estuda-forma-para-recolhimento-de-eletroeletronicos/},
+  urldate = {2020-05-16},
+}
+
+@Online{EstadodeEducacao20200424Horta,
+  author  = {Secretaria de Estado de Educação},
+  date    = {2020-04-24},
+  editor  = {Secretaria de Estado de Educação},
+  title   = {Escola reforça aprendizagem com lições que vão da horta à mesa},
+  url     = {http://www.se.df.gov.br/escola-reforca-aprendizagem-com-licoes-que-vao-da-horta-a-mesa/},
+  urldate = {2020-05-16},
+}
+
+@Online{Magalhaes2018,
+  author  = {Sueli Santana Magalhães},
+  editor  = {REVISTA PARTES},
+  date    = {2018-06-05},
+  title   = {A importância da educação ambiental no processo de ensino-aprendizagem infantil},
+  url     = {https://www.partes.com.br/2018/06/05/a-importancia-da-educacao-ambiental-no-processo-de-ensino-aprendizagem-infantil/},
+  urldate = {2020-05-16},
+}
+
+@Online{Antonce2019,
+  author  = {Antonce},
+  editor  = {YouTube},
+  date    = {2019-12-13},
+  title   = {Educação Ambiental em Brasília},
+  url     = {https://www.youtube.com/watch?v=LgY9lV0TgWc},
+  urldate = {2020-05-16},
+}
+
+@Online{JP2015,
+  author = {JP Filmes Arte e Entretenimento},
+  editor = {YouTube},
+  date   = {2015-05-16},
+  title  = {O Meio Ambiente - A Sustentabilidade nas Escolas - (Documentário)},
+  url    = {https://www.youtube.com/watch?v=SKy3lFa7nC0},
+}
+
+@Article{Porto2009,
+  author       = {Maria Stela Grossi Porto},
+  date         = {2009-12-31},
+  journaltitle = {Maria Stela Grossi Porto},
+  title        = {BRASÍLIA, UMA CIDADE COMO AS OUTRAS?},
+  subtitle     = {Representações sociais e práticas de violência},
+  url          = {https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-69922009000300008},
+  abstract     = {Privilegiar a análise das representações sociais significa reconhecer sua importância teórico-metodológica como estratégia de conhecimento do social. Considerando a temática da qual se ocupa, o artigo explicita a pertinência da Teoria das Representações Sociais como possibilidade de análise do fenômeno da violência contemporânea, assumindo ser impossível compreendê-lo sem se interrogar sobre sentidos, valores e crenças que estruturam e presidem a vida social. O texto ressalta a importância de que políticas públicas de segurança levem em consideração significações e sentidos, de natureza subjetiva, expressos nas Representações Sociais, elaboradas e produzidas não apenas pelos integrantes da área de segurança pública mas, igualmente, por aqueles que direta ou indiretamente se beneficiam ou sofrem as conseqüências de seus acertos ou desacertos, ou seja, a sociedade, em seus distintos segmentos. Em outras palavras, através da utilização de evidências empíricas, aponta-se a pertinência de inserir a temática das representações sociais e de seus conteúdos no horizonte das preocupações dos formuladores de política. O Distrito Federal é o universo empírico que dá suporte às análises realizadas.},
+  timestamp    = {2020-05-16},
+}
+
+@Article{Tiburri2013,
+  author       = {Roberta Tiburri},
+  date         = {2013-12-30},
+  journaltitle = {PORTAL DE REVISTAS DA USP},
+  title        = {O "sujeito sociológico" pelas ruas de Brasília},
+  url          = {http://www.revistas.usp.br/posfau/article/view/81048},
+  abstract     = {Este artigo pretende situar o “sujeito sociológico”, conceituado por Stuart Hall (2006), na arquitetura e urbanismo modernistas, utilizando como ícone a cidade de Brasília. Este “sujeito sociológico”, fruto da modernidade em transformação, com suas características de isolamento e individualismo acrescidas de um processo de fragmentação e descentramento das identidades, será conduzido pelas ruas da cidade símbolo de nosso modernismo, concebida, em grande parte, com base nos princípios da Carta de Atenas, que objetivava resolver os problemas decorrentes do rápido crescimento das cidades. Buscamos compreender de que forma os princípios modernistas da Carta de Atenas, manifesto mais significativo do Congresso Internacional de Arquitetura Moderna (Ciam), estão presentes em Brasília e como se dá a relação entre o coletivo e o individual, bem como de que maneira o “sujeito sociológico” pode transitar em seus espaços. Para isto, analisamos os princípios da Carta de Atenas aplicados ao projeto urbanístico de Brasília, e como resultou, na prática, a relação do indivíduo, nosso “sujeito sociológico”, com esta “cidade ideal”, pela observação das relações entre o coletivo e o individual, o público e o privado, o centro e a periferia. Consideramos, também, o período político e econômico do País, na década de 1950 e início da década de 1960, com a política desenvolvimentista do governo de Juscelino Kubitschek, em diálogo com os preceitos da cidade modernista ideal. Sendo assim, nossa análise gira em torno do “sujeito sociológico”, individualista, pertencente à sociedade moderna em transformação, em diálogo com as estruturas do estado-nação, da industrialização, da democracia e do capitalismo modernos, inserido em uma cidade modernista, com aspirações de coletividade e ordem social e espacial, em um País voltado para o futuro, o progresso e o desenvolvimento.},
+  timestamp    = {2020-05-16},
+}
+
+@Online{,
+  editor = {G1 Distrito Federal},
+  date   = {2018-01-08},
+  title  = {Lixão da Estrutural: um retrato do maior depósito de lixo da América Latina},
+  url    = {https://g1.globo.com/df/distrito-federal/noticia/lixao-da-estrutural-um-retrato-do-maior-deposito-de-lixo-da-america-latina.ghtml},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}

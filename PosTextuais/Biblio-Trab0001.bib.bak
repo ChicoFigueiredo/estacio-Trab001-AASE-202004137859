@@ -26,13 +26,68 @@
   title        = {Observação e Análise SociológicaReflexiva das Relações entre Sociedade e o Meio Ambiente},
 }
 
-@Online{EstadodeEducacao20200424Horta,
+@Online{EstadodeEducacao20200219Parque,
   author  = {Secretaria de Estado de Educação},
   editor  = {Secretaria de Estado de Educação},
+  date    = {2020-02-19},
+  title   = {Resultado do Projeto Parque Educador está disponível},
+  url     = {http://www.se.df.gov.br/escola-reforca-aprendizagem-com-licoes-que-vao-da-horta-a-mesa/},
+  urldate = {2020-05-16},
+}
+
+@Online{AgenciaBrasilia20200424Horta,
+  author  = {Agência Brasilia},
+  editor  = {Agência Brasilia},
+  date    = {2020-04-28},
+  title   = {Acordo estuda forma para recolhimento de eletroeletrônicos},
+  url     = {https://www.agenciabrasilia.df.gov.br/2020/04/28/acordo-estuda-forma-para-recolhimento-de-eletroeletronicos/},
+  urldate = {2020-05-16},
+}
+
+@Online{EstadodeEducacao20200424Horta,
+  author  = {Secretaria de Estado de Educação},
   date    = {2020-04-24},
+  editor  = {Secretaria de Estado de Educação},
   title   = {Escola reforça aprendizagem com lições que vão da horta à mesa},
   url     = {http://www.se.df.gov.br/escola-reforca-aprendizagem-com-licoes-que-vao-da-horta-a-mesa/},
   urldate = {2020-05-16},
+}
+
+@Online{Magalhaes2018,
+  author  = {Sueli Santana Magalhães},
+  editor  = {REVISTA PARTES},
+  date    = {2018-06-05},
+  title   = {A importância da educação ambiental no processo de ensino-aprendizagem infantil},
+  url     = {https://www.partes.com.br/2018/06/05/a-importancia-da-educacao-ambiental-no-processo-de-ensino-aprendizagem-infantil/},
+  urldate = {2020-05-16},
+}
+
+@Online{Antonce2019,
+  author  = {Antonce},
+  editor  = {YouTube},
+  date    = {2019-12-13},
+  title   = {Educação Ambiental em Brasília},
+  url     = {https://www.youtube.com/watch?v=LgY9lV0TgWc},
+  urldate = {2020-05-16},
+}
+
+@Online{JP2015,
+  author = {JP Filmes Arte e Entretenimento},
+  editor = {YouTube},
+  date   = {2015-05-16},
+  title  = {O Meio Ambiente - A Sustentabilidade nas Escolas - (Documentário)},
+  url    = {https://www.youtube.com/watch?v=SKy3lFa7nC0},
+}
+
+@Article{,
+  author       = {Maria Stela Grossi Porto},
+  date         = {2009-12-31},
+  journaltitle = {Maria Stela Grossi Porto},
+  title        = {BRASÍLIA, UMA CIDADE COMO AS OUTRAS?},
+  subtitle     = {Representações sociais e práticas de violência},
+  url          = {https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-69922009000300008},
+  abstract     = {Privilegiar a análise das representações sociais significa reconhecer sua importância teórico-metodológica como estratégia de conhecimento do social. Considerando a temática da qual se ocupa, o artigo explicita a pertinência da Teoria das Representações Sociais como possibilidade de análise do fenômeno da violência contemporânea, assumindo ser impossível compreendê-lo sem se interrogar sobre sentidos, valores e crenças que estruturam e presidem a vida social. O texto ressalta a importância de que políticas públicas de segurança levem em consideração significações e sentidos, de natureza subjetiva, expressos nas Representações Sociais, elaboradas e produzidas não apenas pelos integrantes da área de segurança pública mas, igualmente, por aqueles que direta ou indiretamente se beneficiam ou sofrem as conseqüências de seus acertos ou desacertos, ou seja, a sociedade, em seus distintos segmentos. Em outras palavras, através da utilização de evidências empíricas, aponta-se a pertinência de inserir a temática das representações sociais e de seus conteúdos no horizonte das preocupações dos formuladores de política. O Distrito Federal é o universo empírico que dá suporte às análises realizadas.},
+  timestamp    = {2020-05-16},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
