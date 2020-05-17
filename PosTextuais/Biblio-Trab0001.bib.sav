@@ -157,4 +157,14 @@
   urldate = {2020-05-16},
 }
 
+@Thesis{Figueiro2010,
+  author      = {Ana Lúcia Figueiró},
+  date        = {2010-11-11},
+  institution = {Universidade de Brasília},
+  title       = {Entre o assistencialismo e a emancipação : uma análise da relação entre Estado e sociedade civil, a partir das experiências do Programa Bolsa Família no entorno do Distrito Federal},
+  type        = {phdthesis},
+  url         = {https://repositorio.unb.br/bitstream/10482/5861/1/2010_AnaLuciaFigueiro.pdf},
+  urldate     = {2020-05-17},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
