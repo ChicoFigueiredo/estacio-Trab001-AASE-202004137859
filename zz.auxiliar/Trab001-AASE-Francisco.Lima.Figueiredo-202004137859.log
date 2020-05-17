@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 02:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 02:32
 entering extended mode
 **./Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 (Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
@@ -1950,12 +1950,21 @@ Package hyperref Warning: Suppressing empty link on input line 5.
 <fig/imigrantes-1959.png, id=96, 327.47343pt x 262.73157pt>
 File: fig/imigrantes-1959.png Graphic file (type png)
 <use fig/imigrantes-1959.png>
-Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 8.
+Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 6.
+(pdftex.def)             Requested size: 318.49861pt x 255.53082pt.
+
+Overfull \hbox (115.57005pt too wide) in paragraph at lines 5--7
+[]\T1/lmr/m/n/12 (-20) De acordo com o [][]CO-DE-PLAN/SEPLAN[][] ([]) [] 
+ []
+
+File: fig/imigrantes-1959.png Graphic file (type png)
+<use fig/imigrantes-1959.png>
+Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 10.
 (pdftex.def)             Requested size: 318.49861pt x 255.53082pt.
 <fig/imigrantes-2010.png, id=97, 341.02406pt x 243.91125pt>
 File: fig/imigrantes-2010.png Graphic file (type png)
 <use fig/imigrantes-2010.png>
-Package pdftex.def Info: fig/imigrantes-2010.png  used on input line 15.
+Package pdftex.def Info: fig/imigrantes-2010.png  used on input line 17.
 (pdftex.def)             Requested size: 318.49861pt x 227.81393pt.
 ) [9 <./fig/imigrantes-1959.png (PNG copy)>] [10 <./fig/imigrantes-2010.png (PN
 G copy)>]
@@ -2065,7 +2074,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
 Here is how much of TeX's memory you used:
  56479 strings out of 480892
  1392327 string characters out of 2913453
- 2224160 words of memory out of 3000000
+ 2224166 words of memory out of 3000000
  71227 multiletter control sequences out of 15000+200000
  647319 words of font info for 136 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2079,7 +2088,7 @@ s12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmssbx10.pfb><C:/Prog/MikTex29/
 fonts/type1/public/lm/lmtt10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (27 pages, 359991 bytes).
+2004137859.pdf (27 pages, 360018 bytes).
 PDF statistics:
  269 PDF objects out of 1000 (max. 8388607)
  47 named destinations out of 1000 (max. 500000)
