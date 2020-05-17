@@ -13,6 +13,7 @@
 \usepackage{graphicx}							% Inclusão de gráficos
 \usepackage{microtype} 							% para melhorias de justificação
 \usepackage{lipsum}								% para geração de dummy text
+\usepackage[brazilian,hyperpageref]{backref}	% Paginas com as citações na bibl
 \usepackage[alf]{abntex2cite}					% Citações padrão ABNT
 %\usepackage[num]{abntex2cite}					% Citações padrão ABNT numérica
 \usepackage{adjustbox}							% Pacote de ajuste de boxes
@@ -31,10 +32,6 @@
 \usepackage{tikz}								% Pacote de Figuras
 \usepackage[american, cuteinductors,smartlabels, fulldiode, siunitx, americanvoltages, oldvoltagedirection, smartlabels]{circuitikz}						% Pacote de circuitos elétricos
 
-
-%\usepackage[brazilian,hyperpageref]{backref}	% Paginas com as citações na bibl
-\usepackage[style=abnt]{biblatex}
-\addbibresource{PosTextuais/Biblio-Trab0001}	% Elemento Obrigatório
 
 % Centraliza captions of pictures
 \usepackage[justification=centering]{caption}
@@ -138,19 +135,17 @@
 % Configurações do pacote backref
 % Usado sem a opção hyperpageref de backref
 \renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
-
 % Texto padrão antes do número das páginas
 \renewcommand{\backref}{}
-
 % Define os textos da citação
-%\renewcommand*{\backrefalt}[4]{
-%	\ifcase #1 %
-%	Nenhuma citação no texto.%
-%	\or
-%	Citado na página #2.%
-%	\else
-%	Citado #1 vezes nas páginas #2.%
-%	\fi}%
+\renewcommand*{\backrefalt}[4]{
+	\ifcase #1 %
+	Nenhuma citação no texto.%
+	\or
+	Citado na página #2.%
+	\else
+	Citado #1 vezes nas páginas #2.%
+	\fi}%
 
 % alterando o aspecto da cor azul
 %\definecolor{blue}{RGB}{41,5,195}
