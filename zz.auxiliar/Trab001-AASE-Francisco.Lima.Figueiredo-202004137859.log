@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 02:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 02:47
 entering extended mode
 **./Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 (Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
@@ -1559,7 +1559,7 @@ File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 e.tex
 (C:\Prog\MikTex29\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshar
 ed.code.tex))
-Package hyperref Info: Option `colorlinks' set `true' on input line 159.
+Package hyperref Info: Option `colorlinks' set `true' on input line 162.
 
 
 ******************************************************
@@ -1950,7 +1950,7 @@ Package hyperref Warning: Suppressing empty link on input line 5.
 <fig/imigrantes-1959.png, id=96, 327.47343pt x 262.73157pt>
 File: fig/imigrantes-1959.png Graphic file (type png)
 <use fig/imigrantes-1959.png>
-Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 10.
+Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 9.
 (pdftex.def)             Requested size: 318.49861pt x 255.53082pt.
 [9 <./fig/imigrantes-1959.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1977,8 +1977,11 @@ File: fig/imigrantes-2010.png Graphic file (type png)
 <use fig/imigrantes-2010.png>
 Package pdftex.def Info: fig/imigrantes-2010.png  used on input line 25.
 (pdftex.def)             Requested size: 318.49861pt x 227.81393pt.
-)
-[15] [16 <./fig/imigrantes-2010.png (PNG copy)>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [15] [16 <./fig/imigrantes-2010.png (PNG copy)>]
 \openout2 = `Textuais/Capitulo03.aux'.
 
  (Textuais/Capitulo03.tex)
@@ -2085,7 +2088,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
 Here is how much of TeX's memory you used:
  56538 strings out of 480892
  1392938 string characters out of 2913453
- 2243095 words of memory out of 3000000
+ 2243098 words of memory out of 3000000
  71227 multiletter control sequences out of 15000+200000
  649685 words of font info for 162 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2099,7 +2102,7 @@ s12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmssbx10.pfb><C:/Prog/MikTex29/
 fonts/type1/public/lm/lmtt10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (33 pages, 380427 bytes).
+2004137859.pdf (33 pages, 380435 bytes).
 PDF statistics:
  296 PDF objects out of 1000 (max. 8388607)
  54 named destinations out of 1000 (max. 500000)
