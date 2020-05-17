@@ -1,0 +1,30 @@
+\ifglsentryexists{CODEPLAN}{}%
+{%
+\gls@defglossaryentry{CODEPLAN}%
+{%
+name={CODEPLAN},%
+sort={CODEPLAN},%
+type={acronym},%
+first={Companhia de Planejamento do Distrito Federal\glsspace (CODEPLAN)},%
+firstplural={Companhia de Planejamento do Distrito Federals\glsspace (CODEPLANs)},%
+text={CODEPLAN},%
+plural={CODEPLANs},%
+description={Companhia de Planejamento do Distrito Federal},%
+descriptionplural={Companhia de Planejamento do Distrito Federal\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Companhia de Planejamento do Distrito Federal},%
+longplural={Companhia de Planejamento do Distrito Federals},%
+short={CODEPLAN},%
+shortplural={CODEPLANs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

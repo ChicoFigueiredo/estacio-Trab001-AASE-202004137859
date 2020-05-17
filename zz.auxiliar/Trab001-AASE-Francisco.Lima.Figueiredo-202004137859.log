@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.17)  17 MAY 2020 18:45
 entering extended mode
 **./Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 (Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-04-06>
+L3 programming layer <2020-05-15>
 (C:\Prog\MikTex29\tex/latex/abntex2\abntex2.cls
 Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
 (C:\Prog\MikTex29\tex/latex/base\ifthen.sty
@@ -478,11 +478,19 @@ File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
 \BKM@id=\count304
 ))
 (C:\Prog\MikTex29\tex/generic/babel\babel.sty
-Package: babel 2020/03/22 3.42 The Babel package
+Package: babel 2020/05/13 3.44 The Babel package
 
-(C:\Prog\MikTex29\tex/generic/babel\switch.def
-File: switch.def 2020/03/22 3.42 Babel switching mechanism
+(C:\Prog\MikTex29\tex/generic/babel\babel.def
+File: babel.def 2020/05/13 3.44 Babel common definitions
+\babel@savecnt=\count305
+\U@D=\dimen183
+\l@babelnohyphens=\language83
+
+(C:\Prog\MikTex29\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
 )
+\bbl@dirlevel=\count306
+
 *************************************
 * Local config file bblopts.cfg used
 *
@@ -492,16 +500,6 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 )
 (C:\Prog\MikTex29\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-
-(C:\Prog\MikTex29\tex/generic/babel\babel.def
-File: babel.def 2020/03/22 3.42 Babel common definitions
-\babel@savecnt=\count305
-\U@D=\dimen183
-
-(C:\Prog\MikTex29\tex/generic/babel\txtbabel.def)
-\bbl@readstream=\read3
-\bbl@dirlevel=\count306
-)
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
@@ -509,11 +507,11 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language77) on input line 108.
 )
-(C:\Prog\MikTex29\tex/latex/babel-portuges\portuges.ldf
-Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+(C:\Prog\MikTex29\tex/latex/babel-portuges\brazil.ldf
+Language: portuges 2020/05/04 v1.2r Portuguese support from the babel system
 Package babel Info: \l@brazil = using hyphenrules for portuguese
-(babel)             (\language60) on input line 113.
-Package babel Info: Making " an active character on input line 145.
+(babel)             (\language60) on input line 111.
+Package babel Info: Making " an active character on input line 143.
 ))
 (C:\Prog\MikTex29\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
@@ -795,20 +793,22 @@ File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
 ))
 (C:\Prog\MikTex29\tex/latex/lipsum\lipsum.sty
 (C:\Prog\MikTex29\tex/latex/l3kernel\expl3.sty
-Package: expl3 2020-04-06 L3 programming layer (loader) 
+Package: expl3 2020-05-15 L3 programming layer (loader) 
 
 (C:\Prog\MikTex29\tex/latex/l3backend\l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count339
 \l__pdf_internal_box=\box53
 ))
 (C:\Prog\MikTex29\tex/latex/l3packages/xparse\xparse.sty
-Package: xparse 2020-03-06 L3 Experimental document command parser
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(C:\Prog\MikTex29\tex/latex/l3packages/xparse\xparse-generic.tex
 \l__xparse_current_arg_int=\count340
 \g__xparse_grabber_int=\count341
 \l__xparse_m_args_int=\count342
 \l__xparse_v_nesting_int=\count343
-)
+))
 Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
 
 (C:\Prog\MikTex29\tex/latex/lipsum\lipsum.ltd.tex
@@ -894,10 +894,10 @@ ion package take over. Remember: all caption configuration now goves via the ca
 ption package interface, not the interface from the memoir class. .
 
 (C:\Prog\MikTex29\tex/latex/caption\caption.sty
-Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
 
 (C:\Prog\MikTex29\tex/latex/caption\caption3.sty
-Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
 \captionmargin=\dimen270
 \captionmargin@=\dimen271
@@ -919,7 +919,7 @@ Package caption Info: hyperref package is loaded.
 Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
 
 (C:\Prog\MikTex29\tex/latex/l3packages/l3keys2e\l3keys2e.sty
-Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box56
 \l__siunitx_tmp_dim=\dimen277
@@ -988,13 +988,13 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (C:\Prog\MikTex29\tex/latex/l3packages/xtemplate\xtemplate.sty
-Package: xtemplate 2020-03-06 L3 Experimental prototype document functions
+Package: xtemplate 2020-05-15 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen290
 \l__xtemplate_tmp_int=\count371
 \l__xtemplate_tmp_muskip=\muskip18
 \l__xtemplate_tmp_skip=\skip275
 )
-Package: xfrac 2020-03-06 L3 Experimental split-level fractions
+Package: xfrac 2020-05-15 L3 Experimental split-level fractions
 \l__xfrac_slash_box=\box64
 \l__xfrac_tmp_box=\box65
 \l__xfrac_denominator_bot_sep_dim=\dimen291
@@ -1559,7 +1559,7 @@ File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 e.tex
 (C:\Prog\MikTex29\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshar
 ed.code.tex))
-Package hyperref Info: Option `colorlinks' set `true' on input line 162.
+Package hyperref Info: Option `colorlinks' set `true' on input line 168.
 
 
 ******************************************************
@@ -1612,6 +1612,8 @@ ux
 ÇÃO\Trab001\zz.auxiliar\Textuais/Capitulo03.aux)
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\Textuais/Capitulo04.aux)
+(D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
+ÇÃO\Trab001\zz.auxiliar\PosTextuais/Glossario.aux)
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\PosTextuais/Apendices.aux)
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
@@ -1944,36 +1946,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3--12
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--19
+LaTeX Warning: Citation `Dias1994' on page 9 undefined on input line 5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--14
 
  []
 
 
-LaTeX Warning: Citation `Gadotti2000' on page 9 undefined on input line 20.
+LaTeX Warning: Citation `Magalhaes2018' on page 9 undefined on input line 15.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--29
+Underfull \hbox (badness 10000) in paragraph at lines 15--21
 
  []
 
-<fig/imigrantes-1959.png, id=101, 327.47343pt x 262.73157pt>
+
+LaTeX Warning: Citation `Gadotti2000' on page 9 undefined on input line 22.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--31
+
+ []
+
+
+LaTeX Warning: Citation `CODEPLANSEPLAN2013' on page 9 undefined on input line 
+38.
+
+<fig/imigrantes-1959.png, id=95, 327.47343pt x 262.73157pt>
 File: fig/imigrantes-1959.png Graphic file (type png)
 <use fig/imigrantes-1959.png>
-Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 37.
+Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 42.
 (pdftex.def)             Requested size: 318.49861pt x 255.53082pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-[10 <./fig/imigrantes-1959.png (PNG copy)>]
+[9] [10 <./fig/imigrantes-1959.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
@@ -1986,58 +1999,77 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
 File: fig/imigrantes-1959.png Graphic file (type png)
 <use fig/imigrantes-1959.png>
-Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 46.
+Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 51.
 (pdftex.def)             Requested size: 318.49861pt x 255.53082pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/imigrantes-2010.png, id=133, 341.02406pt x 243.91125pt>
+<fig/imigrantes-2010.png, id=129, 341.02406pt x 243.91125pt>
 File: fig/imigrantes-2010.png Graphic file (type png)
 <use fig/imigrantes-2010.png>
-Package pdftex.def Info: fig/imigrantes-2010.png  used on input line 53.
+Package pdftex.def Info: fig/imigrantes-2010.png  used on input line 58.
 (pdftex.def)             Requested size: 318.49861pt x 227.81393pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [15] [16 <./fig/imigrantes-2010.png (PNG copy)>]
+)
+[16 <./fig/imigrantes-2010.png (PNG copy)>]
 \openout2 = `Textuais/Capitulo03.aux'.
 
- (Textuais/Capitulo03.tex)
-[17
+ (Textuais/Capitulo03.tex) [17
 
 
 
 ]
 \openout2 = `Textuais/Capitulo04.aux'.
 
- (Textuais/Capitulo04.tex [18
 
+(Textuais/Capitulo04.tex [18
 
-
-]) [19] [20
 
 
 ]
-(D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
-ÇÃO\Trab001\zz.auxiliar\Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.b
-bl
-(D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
-ÇÃO\Trab001\zz.auxiliar\Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.b
-rf)
-\tf@brf=\write6
-\openout6 = `Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.brf'.
 
- [21] [22
+LaTeX Warning: Citation `Magalhaes2018' on page 19 undefined on input line 3.
 
-]
-bibitemlist
-) [23]
+)
+Runaway argument?
+! File ended while scanning use of \language@active@arg".
+<inserted text> 
+                \par 
+l.126 \include{Textuais/Capitulo04}
+                                   
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+[19]
+No file Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.bbl.
+\openout2 = `PosTextuais/Glossario.aux'.
+
+(PosTextuais/Glossario.tex)
 \openout2 = `PosTextuais/Apendices.aux'.
 
- (PosTextuais/Apendices.tex [24
+ (PosTextuais/Apendices.tex [20
+
+
+
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 13.
+
+[21
+
+] [22]) [23
+
+]
+\openout2 = `PosTextuais/Anexos.aux'.
+
+ (PosTextuais/Anexos.tex [24
+
 
 
 ]
@@ -2049,26 +2081,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ] [26]) [27
 
-]
-\openout2 = `PosTextuais/Anexos.aux'.
-
- (PosTextuais/Anexos.tex [28
-
-
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 13.
-
-[29
-
-] [30]) [31
-
 ] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
 
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.a
@@ -2092,14 +2108,13 @@ ux
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\Textuais/Capitulo04.aux)
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
+ÇÃO\Trab001\zz.auxiliar\PosTextuais/Glossario.aux)
+(D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\PosTextuais/Apendices.aux)
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\PosTextuais/Anexos.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
-Package rerunfilecheck Info: File `Trab001-AASE-Francisco.Lima.Figueiredo-20200
-4137859.brf' has not changed.
-(rerunfilecheck)             Checksum: 59D23E75B0D498933E04C69027C9CC23;178.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 142.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2107,14 +2122,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 142.
  ) 
 Here is how much of TeX's memory you used:
- 56572 strings out of 480892
- 1393473 string characters out of 2913453
- 2245203 words of memory out of 3000000
- 71261 multiletter control sequences out of 15000+200000
- 649556 words of font info for 161 fonts, out of 3000000 for 9000
+ 56692 strings out of 480761
+ 1395895 string characters out of 2909411
+ 2251315 words of memory out of 3000000
+ 71520 multiletter control sequences out of 15000+200000
+ 649647 words of font info for 162 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,15n,138p,1004b,896s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Prog/MikTex29/fonts/enc/dvips/lm/lm-ec.enc}<C:/Prog/MikTex29/fonts/type1/
@@ -2126,9 +2141,9 @@ s12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmssbx10.pfb><C:/Prog/MikTex29/
 fonts/type1/public/lm/lmtt10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (33 pages, 385801 bytes).
+2004137859.pdf (29 pages, 380117 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 37610 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 267 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 37602 words of extra memory for PDF output out of 42996 (max. 10000000)
 
