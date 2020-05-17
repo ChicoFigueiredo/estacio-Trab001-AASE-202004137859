@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 02:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 02:41
 entering extended mode
 **./Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 (Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
@@ -1952,10 +1952,7 @@ File: fig/imigrantes-1959.png Graphic file (type png)
 <use fig/imigrantes-1959.png>
 Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 10.
 (pdftex.def)             Requested size: 318.49861pt x 255.53082pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9 <./fig/imigrantes-1959.png (PNG copy)>]
+[9 <./fig/imigrantes-1959.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
@@ -2102,7 +2099,7 @@ s12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmssbx10.pfb><C:/Prog/MikTex29/
 fonts/type1/public/lm/lmtt10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (33 pages, 380439 bytes).
+2004137859.pdf (33 pages, 380427 bytes).
 PDF statistics:
  296 PDF objects out of 1000 (max. 8388607)
  54 named destinations out of 1000 (max. 500000)
