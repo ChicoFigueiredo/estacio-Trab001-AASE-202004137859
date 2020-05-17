@@ -9,6 +9,7 @@ A level-1 auxiliary file: PreTextuais/Resumo.aux
 A level-1 auxiliary file: Textuais/Capitulo01.aux
 A level-1 auxiliary file: Textuais/Capitulo02.aux
 A level-1 auxiliary file: Textuais/Capitulo03.aux
+A level-1 auxiliary file: Textuais/Capitulo04.aux
 A level-1 auxiliary file: PosTextuais/Apendices.aux
 A level-1 auxiliary file: PosTextuais/Anexos.aux
 The style file: abntex2-alf.bst
@@ -23,12 +24,6 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Database file #1: abntex2-options.bib
 Database file #2: PosTextuais/Biblio-Trab0001.bib
-Warning--I didn't find a database entry for "NBR6028:2003"
-Warning--I didn't find a database entry for "abntex2classe"
-Warning--I didn't find a database entry for "abntex2-wiki-como-customizar"
-Warning--I didn't find a database entry for "abntex2cite"
-Warning--I didn't find a database entry for "abntex2cite-alf"
-Warning--I didn't find a database entry for "memoir"
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
@@ -40,7 +35,7 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 +---------------------------------------------------------+
 You've used 1 entry,
             6714 wiz_defined-function locations,
-            1214 strings with 9798 characters,
+            1208 strings with 9724 characters,
 and the built_in function-call counts, 891 in all, are:
 = -- 192
 > -- 0
@@ -79,4 +74,3 @@ warning$ -- 0
 while$ -- 2
 width$ -- 0
 write$ -- 8
-(There were 6 warnings)
