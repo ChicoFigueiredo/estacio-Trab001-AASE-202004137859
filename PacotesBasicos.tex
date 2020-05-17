@@ -37,7 +37,10 @@
 % Centraliza captions of pictures
 \usepackage[justification=centering]{caption}
 
-% glossário
+% glossário, com fix para erros
+\let\su@ExpandTwoArgs\relax
+\let\IfSubStringInString\relax
+\let\su@IfSubStringInString\relax
 \usepackage[acronym]{glossaries}
 
 
