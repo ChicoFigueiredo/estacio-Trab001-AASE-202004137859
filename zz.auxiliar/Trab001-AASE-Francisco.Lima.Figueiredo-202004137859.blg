@@ -29,7 +29,6 @@ Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
 Warning--campo year vazio ou faltando em CODEPLANSEPLAN2013
-Warning--campo year vazio ou faltando em Dias1994
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
@@ -37,43 +36,43 @@ Warning--campo year vazio ou faltando em Dias1994
 +---------------------------------------------------------+
 You've used 3 entries,
             6714 wiz_defined-function locations,
-            1217 strings with 10084 characters,
-and the built_in function-call counts, 5003 in all, are:
-= -- 743
+            1218 strings with 10088 characters,
+and the built_in function-call counts, 5049 in all, are:
+= -- 748
 > -- 30
 < -- 155
 + -- 211
 - -- 10
-* -- 252
-:= -- 655
+* -- 258
+:= -- 661
 add.period$ -- 7
 call.type$ -- 3
 change.case$ -- 15
 chr.to.int$ -- 3
-cite$ -- 4
-duplicate$ -- 536
-empty$ -- 151
+cite$ -- 3
+duplicate$ -- 538
+empty$ -- 157
 format.name$ -- 46
-if$ -- 957
+if$ -- 966
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 46
+missing$ -- 47
 newline$ -- 16
 num.names$ -- 10
-pop$ -- 91
+pop$ -- 90
 preamble$ -- 1
 purify$ -- 9
 quote$ -- 0
-skip$ -- 610
+skip$ -- 608
 stack$ -- 1
-substring$ -- 214
-swap$ -- 176
+substring$ -- 226
+swap$ -- 178
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 13
+warning$ -- 1
+while$ -- 14
 width$ -- 0
-write$ -- 35
-(There were 2 warnings)
+write$ -- 36
+(There was 1 warning)

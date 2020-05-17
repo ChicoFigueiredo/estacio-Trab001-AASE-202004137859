@@ -146,6 +146,7 @@
   journaltitle = {UFSM Educação},
   title        = {Diálogos da Escola com a Juventude: o Programa EnsinoMédio Inovador no Distrito Federal},
   url          = {https://www.researchgate.net/profile/Lucelia_Bassalo/publication/340524308_Dialogos_da_Escola_com_a_Juventude_o_Programa_Ensino_Medio_Inovador_no_Distrito_Federal/links/5e94c2c9299bf130799783eb/Dialogos-da-Escola-com-a-Juventude-o-Programa-Ensino-Medio-Inovador-no-Distrito-Federal.pdf},
+  year         = {2020},
 }
 
 @Online{EstadodeEducacao20200219Parque,
@@ -162,8 +163,15 @@
   date        = {2010-11-11},
   institution = {Universidade de Brasília},
   title       = {Entre o assistencialismo e a emancipação : uma análise da relação entre Estado e sociedade civil, a partir das experiências do Programa Bolsa Família no entorno do Distrito Federal},
-  type        = {mathesis},
+  type        = {phdthesis},
   url         = {https://repositorio.unb.br/bitstream/10482/5861/1/2010_AnaLuciaFigueiro.pdf},
+  urldate     = {2020-05-17},
+}
+
+@Book{Dias1994,
+  author = {Genebaldo Freire Dias},
+  date   = {1994},
+  title  = {Educação Ambiental: princípios e práticas.},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

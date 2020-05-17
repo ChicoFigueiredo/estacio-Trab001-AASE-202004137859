@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 13:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 13:16
 entering extended mode
 **./Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 (Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
@@ -1951,7 +1951,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--12
 
 Package hyperref Warning: Suppressing empty link on input line 15.
 
-<fig/imigrantes-1959.png, id=97, 327.47343pt x 262.73157pt>
+<fig/imigrantes-1959.png, id=98, 327.47343pt x 262.73157pt>
 File: fig/imigrantes-1959.png Graphic file (type png)
 <use fig/imigrantes-1959.png>
 Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 19.
@@ -1980,7 +1980,7 @@ Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 28.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/imigrantes-2010.png, id=128, 341.02406pt x 243.91125pt>
+<fig/imigrantes-2010.png, id=129, 341.02406pt x 243.91125pt>
 File: fig/imigrantes-2010.png Graphic file (type png)
 <use fig/imigrantes-2010.png>
 Package pdftex.def Info: fig/imigrantes-2010.png  used on input line 35.
@@ -2095,7 +2095,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
 Here is how much of TeX's memory you used:
  56548 strings out of 480892
  1393070 string characters out of 2913453
- 2243751 words of memory out of 3000000
+ 2243909 words of memory out of 3000000
  71236 multiletter control sequences out of 15000+200000
  649685 words of font info for 162 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2109,9 +2109,9 @@ s12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmssbx10.pfb><C:/Prog/MikTex29/
 fonts/type1/public/lm/lmtt10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (33 pages, 382535 bytes).
+2004137859.pdf (33 pages, 382749 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
+ 301 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)
  37610 words of extra memory for PDF output out of 42996 (max. 10000000)
 
