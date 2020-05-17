@@ -1945,7 +1945,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
 ]
 
-LaTeX Warning: Citation `Dias1994' on page 9 undefined on input line 3.
+Package hyperref Warning: Suppressing empty link on input line 3.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--12
@@ -1955,7 +1955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--12
 
 Package hyperref Warning: Suppressing empty link on input line 15.
 
-<fig/imigrantes-1959.png, id=96, 327.47343pt x 262.73157pt>
+<fig/imigrantes-1959.png, id=97, 327.47343pt x 262.73157pt>
 File: fig/imigrantes-1959.png Graphic file (type png)
 <use fig/imigrantes-1959.png>
 Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 19.
@@ -1984,7 +1984,7 @@ Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 28.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/imigrantes-2010.png, id=126, 341.02406pt x 243.91125pt>
+<fig/imigrantes-2010.png, id=128, 341.02406pt x 243.91125pt>
 File: fig/imigrantes-2010.png Graphic file (type png)
 <use fig/imigrantes-2010.png>
 Package pdftex.def Info: fig/imigrantes-2010.png  used on input line 35.
@@ -2094,16 +2094,13 @@ Package rerunfilecheck Info: File `Trab001-AASE-Francisco.Lima.Figueiredo-20200
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
  ) 
 Here is how much of TeX's memory you used:
- 56545 strings out of 480892
- 1393031 string characters out of 2913453
- 2243704 words of memory out of 3000000
- 71234 multiletter control sequences out of 15000+200000
+ 56548 strings out of 480892
+ 1393070 string characters out of 2913453
+ 2243847 words of memory out of 3000000
+ 71236 multiletter control sequences out of 15000+200000
  649685 words of font info for 162 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,15n,138p,1004b,896s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2116,9 +2113,9 @@ s12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmssbx10.pfb><C:/Prog/MikTex29/
 fonts/type1/public/lm/lmtt10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (33 pages, 381811 bytes).
+2004137859.pdf (33 pages, 382544 bytes).
 PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
+ 300 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
  37610 words of extra memory for PDF output out of 42996 (max. 10000000)
 

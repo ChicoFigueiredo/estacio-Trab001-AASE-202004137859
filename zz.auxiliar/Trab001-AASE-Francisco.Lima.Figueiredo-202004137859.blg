@@ -24,56 +24,56 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Database file #1: abntex2-options.bib
 Database file #2: PosTextuais/Biblio-Trab0001.bib
-Warning--I didn't find a database entry for "Dias1994"
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
 Warning--campo year vazio ou faltando em CODEPLANSEPLAN2013
+Warning--campo year vazio ou faltando em Dias1994
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 2 entries,
+You've used 3 entries,
             6714 wiz_defined-function locations,
-            1215 strings with 10017 characters,
-and the built_in function-call counts, 4436 in all, are:
-= -- 703
-> -- 15
+            1217 strings with 10084 characters,
+and the built_in function-call counts, 5003 in all, are:
+= -- 743
+> -- 30
 < -- 155
-+ -- 206
-- -- 5
-* -- 224
-:= -- 573
-add.period$ -- 4
-call.type$ -- 2
-change.case$ -- 9
-chr.to.int$ -- 2
-cite$ -- 2
-duplicate$ -- 501
-empty$ -- 98
-format.name$ -- 23
-if$ -- 819
++ -- 211
+- -- 10
+* -- 252
+:= -- 655
+add.period$ -- 7
+call.type$ -- 3
+change.case$ -- 15
+chr.to.int$ -- 3
+cite$ -- 4
+duplicate$ -- 536
+empty$ -- 151
+format.name$ -- 46
+if$ -- 957
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 28
-newline$ -- 12
-num.names$ -- 5
-pop$ -- 65
+missing$ -- 46
+newline$ -- 16
+num.names$ -- 10
+pop$ -- 91
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 9
 quote$ -- 0
-skip$ -- 571
+skip$ -- 610
 stack$ -- 1
-substring$ -- 209
-swap$ -- 165
+substring$ -- 214
+swap$ -- 176
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 8
+warning$ -- 2
+while$ -- 13
 width$ -- 0
-write$ -- 22
+write$ -- 35
 (There were 2 warnings)
