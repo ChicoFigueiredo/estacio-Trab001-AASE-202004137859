@@ -56,7 +56,7 @@ I couldn't open auxiliary file Textuais/Capitulo04.aux
  :                                }
 I'm skipping whatever remains of this command
 Reallocating 'name_of_file' (item size: 1) to 16 items.
-Reallocating 'name_of_file' (item size: 1) to 28 items.
+Reallocating 'name_of_file' (item size: 1) to 33 items.
 Reallocating 'name_of_file' (item size: 1) to 26 items.
 I couldn't open auxiliary file PosTextuais/Glossario.aux
 ---line 50 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
@@ -87,7 +87,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Database file #1: abntex2-options.bib
-Database file #2: PosTextuais/Biblio-Trab0001.bib
+Database file #2: PosTextuais/Biblio-Trab0001-v002.bib
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
@@ -99,7 +99,7 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 +---------------------------------------------------------+
 You've used 1 entry,
             6714 wiz_defined-function locations,
-            1209 strings with 9749 characters,
+            1209 strings with 9754 characters,
 and the built_in function-call counts, 891 in all, are:
 = -- 192
 > -- 0
