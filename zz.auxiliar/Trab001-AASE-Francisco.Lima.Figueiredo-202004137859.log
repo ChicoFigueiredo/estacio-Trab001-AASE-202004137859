@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 01:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 01:22
 entering extended mode
 **./Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 (Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
@@ -2084,11 +2084,11 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
  ) 
 Here is how much of TeX's memory you used:
- 56688 strings out of 480892
- 1395239 string characters out of 2913453
+ 56692 strings out of 480892
+ 1395285 string characters out of 2913453
  2234325 words of memory out of 3000000
  71358 multiletter control sequences out of 15000+200000
- 679751 words of font info for 183 fonts, out of 3000000 for 9000
+ 680009 words of font info for 185 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,15n,138p,1004b,896s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Prog/MikTex29/fonts/enc/dvips/lm/lm-ec.enc}{C:/Prog/MikTex29/fonts/enc/dv
@@ -2110,7 +2110,7 @@ public/lm/lmsy8.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmtt10.pfb><C:/Prog
 /MikTex29/fonts/type1/public/amsfonts/symbols/msam10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (31 pages, 1182432 bytes).
+2004137859.pdf (31 pages, 1184389 bytes).
 PDF statistics:
  460 PDF objects out of 1000 (max. 8388607)
  67 named destinations out of 1000 (max. 500000)

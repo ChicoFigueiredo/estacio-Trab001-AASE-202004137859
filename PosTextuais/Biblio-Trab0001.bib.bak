@@ -79,7 +79,7 @@
   url    = {https://www.youtube.com/watch?v=SKy3lFa7nC0},
 }
 
-@Article{,
+@Article{Porto2009,
   author       = {Maria Stela Grossi Porto},
   date         = {2009-12-31},
   journaltitle = {Maria Stela Grossi Porto},
@@ -88,6 +88,47 @@
   url          = {https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-69922009000300008},
   abstract     = {Privilegiar a análise das representações sociais significa reconhecer sua importância teórico-metodológica como estratégia de conhecimento do social. Considerando a temática da qual se ocupa, o artigo explicita a pertinência da Teoria das Representações Sociais como possibilidade de análise do fenômeno da violência contemporânea, assumindo ser impossível compreendê-lo sem se interrogar sobre sentidos, valores e crenças que estruturam e presidem a vida social. O texto ressalta a importância de que políticas públicas de segurança levem em consideração significações e sentidos, de natureza subjetiva, expressos nas Representações Sociais, elaboradas e produzidas não apenas pelos integrantes da área de segurança pública mas, igualmente, por aqueles que direta ou indiretamente se beneficiam ou sofrem as conseqüências de seus acertos ou desacertos, ou seja, a sociedade, em seus distintos segmentos. Em outras palavras, através da utilização de evidências empíricas, aponta-se a pertinência de inserir a temática das representações sociais e de seus conteúdos no horizonte das preocupações dos formuladores de política. O Distrito Federal é o universo empírico que dá suporte às análises realizadas.},
   timestamp    = {2020-05-16},
+}
+
+@Article{Tiburri2013,
+  author       = {Roberta Tiburri},
+  date         = {2013-12-30},
+  journaltitle = {PORTAL DE REVISTAS DA USP},
+  title        = {O "sujeito sociológico" pelas ruas de Brasília},
+  url          = {http://www.revistas.usp.br/posfau/article/view/81048},
+  abstract     = {Este artigo pretende situar o “sujeito sociológico”, conceituado por Stuart Hall (2006), na arquitetura e urbanismo modernistas, utilizando como ícone a cidade de Brasília. Este “sujeito sociológico”, fruto da modernidade em transformação, com suas características de isolamento e individualismo acrescidas de um processo de fragmentação e descentramento das identidades, será conduzido pelas ruas da cidade símbolo de nosso modernismo, concebida, em grande parte, com base nos princípios da Carta de Atenas, que objetivava resolver os problemas decorrentes do rápido crescimento das cidades. Buscamos compreender de que forma os princípios modernistas da Carta de Atenas, manifesto mais significativo do Congresso Internacional de Arquitetura Moderna (Ciam), estão presentes em Brasília e como se dá a relação entre o coletivo e o individual, bem como de que maneira o “sujeito sociológico” pode transitar em seus espaços. Para isto, analisamos os princípios da Carta de Atenas aplicados ao projeto urbanístico de Brasília, e como resultou, na prática, a relação do indivíduo, nosso “sujeito sociológico”, com esta “cidade ideal”, pela observação das relações entre o coletivo e o individual, o público e o privado, o centro e a periferia. Consideramos, também, o período político e econômico do País, na década de 1950 e início da década de 1960, com a política desenvolvimentista do governo de Juscelino Kubitschek, em diálogo com os preceitos da cidade modernista ideal. Sendo assim, nossa análise gira em torno do “sujeito sociológico”, individualista, pertencente à sociedade moderna em transformação, em diálogo com as estruturas do estado-nação, da industrialização, da democracia e do capitalismo modernos, inserido em uma cidade modernista, com aspirações de coletividade e ordem social e espacial, em um País voltado para o futuro, o progresso e o desenvolvimento.},
+  timestamp    = {2020-05-16},
+}
+
+@Online{Marques2018,
+  author = {Marília Marques},
+  editor = {G1 Distrito Federal},
+  date   = {2018-01-08},
+  title  = {Lixão da Estrutural: um retrato do maior depósito de lixo da América Latina},
+  url    = {https://g1.globo.com/df/distrito-federal/noticia/lixao-da-estrutural-um-retrato-do-maior-deposito-de-lixo-da-america-latina.ghtml},
+}
+
+@Online{Cabeca2017,
+  author  = {Gabriel Cabeça},
+  editor  = {YouTube},
+  date    = {2017-09-20},
+  title   = {Pontão do Lago Sul},
+  url     = {https://www.youtube.com/watch?v=HupewRWCZDw},
+  urldate = {2020-05-17},
+}
+
+@Online{CMB20180616,
+  author = {Colégio Militar de Brasília},
+  editor = {YouTube},
+  date   = {2018-06-16},
+  title  = {O Colégio Militar de Brasília e a problemática dos Resíduos Sólidos},
+  url    = {https://www.youtube.com/watch?v=8pM5r0cM6os},
+}
+
+@Book{CODEPLANSEPLAN2013,
+  author = {CODEPLAN/SEPLAN},
+  date   = {2013-05-30},
+  title  = {Evolução dos movimentos migratórios para o Distrito Federal 1959-2010},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
