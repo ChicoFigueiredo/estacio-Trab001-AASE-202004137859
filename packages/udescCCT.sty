@@ -10,7 +10,7 @@
 %% version 2005/12/01 or later.
 %%
 %% This work has the LPPL maintenance status `maintained'.
-%% 
+%%
 %% The Current Maintainer of this work is FELIPE JOEL ZIMANN, felipezimann@hotmail.com
 %%
 %% Further information about abnTeX2 are available on https://github.com/abntex/abntex2
@@ -32,7 +32,7 @@
 \renewcommand{\imprimircapa}{%
   \begin{capa}%
     \center
-    
+
 	{\MakeTextUppercase{\ABNTEXchapterfont\large\bfseries\imprimirautor}}
 
     \vfill
@@ -40,7 +40,7 @@
     {\MakeTextUppercase{\ABNTEXchapterfont\bfseries\Large\imprimirtitulo}}
     \end{center}
     \vfill
-    
+
 	{\large\bfseries\imprimirlocal}
 	\par
 	{\large\bfseries\imprimirdata}
@@ -52,7 +52,7 @@
 % Command Capa Padrão
 % --------------------------------------------------------
 
-%	\linethickness{0.75pt}	\line(0,1){25} 
+%	\linethickness{0.75pt}	\line(0,1){25}
 \newcommand\imprimirCapaCustom[3]{
 	\begin{capa}%
 		\setlrmarginsandblock{1cm}{*}{*}
@@ -64,40 +64,40 @@
 				\SingleSpacing\sffamily\large\bfseries
 				\MakeTextUppercase{\Large\bfseries\sffamily#3} \par
 		\end{minipage}}
-		
-		
+
+
 		\vspace*{\fill}
-		{\begin{minipage}[c]{20cm} 
+		{\begin{minipage}[c]{20cm}
 				\flushright
 				\fcolorbox{#1}{#1}{
-					\begin{minipage}{0.8\textwidth} 
+					\begin{minipage}{0.8\textwidth}
 						\vspace{0.5cm}
-						\color{white} 
-						\begin{tabular}{ c | m{13cm} } 
-							& \MakeTextUppercase{\sffamily#2} \\[12pt] 
+						\color{white}
+						\begin{tabular}{ c | m{13cm} }
+							& \MakeTextUppercase{\sffamily#2} \\[12pt]
 							& \flushleft{\MakeTextUppercase{\Large\bfseries\sffamily\imprimirtitulo}}
-						\end{tabular}	
+						\end{tabular}
 						\vspace{0.5cm}
 					\end{minipage}
 				}
 		\end{minipage}}
 		\flushright
-		
-		
+
+
 		\vspace*{\fill}
 		{\begin{minipage}[c]{\textwidth}
 				\center
 				{\MakeTextUppercase{\large\sffamily\imprimirautor}}
 		\end{minipage}}
-		
+
 		\vspace*{\fill}
-		
+
 		{\begin{minipage}[c]{\textwidth}
 				\center
 				{\MakeTextUppercase{\sffamily\imprimirlocal, \imprimirdata}}
-		\end{minipage}}	
-		
-		
+		\end{minipage}}
+
+
 	\end{capa}
 }
 
@@ -115,21 +115,21 @@
 % --------------------------------------------------------
 \newcommand{\imprimircapaDissertacao}{%
 	\imprimirCapaCustom{CapaVerdeUDESC}{DISSERTAÇÃO DE MESTRADO}{\imprimirinstituicao}
-}	
-	
+}
+
 % --------------------------------------------------------
 % Capa Padrão UDESC - TCC
 % --------------------------------------------------------
 \newcommand{\imprimircapaTCC}{%
 	\imprimirCapaCustom{CapaAzulUDESC}{TRABALHO DE CONCLUSÃO DE CURSO}{\imprimirinstituicao}
-}	
+}
 
 % --------------------------------------------------------
 % Capa Padrão UDESC - Pós-Doc
 % --------------------------------------------------------
 \newcommand{\imprimircapaPosDoc}{%
 	\imprimirCapaCustom{CapaAzulUDESC}{RELAT\'ORIO DE P\'OS--DOUTORADO}{\imprimirinstituicao}
-}	
+}
 
 
 % --------------------------------------------------------
@@ -137,44 +137,44 @@
 % --------------------------------------------------------
 \newcommand{\imprimircapaTese}{%
 	\imprimirCapaCustom{CapaAzulUDESC}{TESE DE DOUTORADO}{\imprimirinstituicao}
-}	
+}
 
 % --------------------------------------------------------
-% folha de rosto 
+% folha de rosto
 % --------------------------------------------------------
 
 \makeatletter
 
 \renewcommand{\folhaderostocontent}{
-\begin{center}
-    
-{\MakeTextUppercase{\ABNTEXchapterfont\large\imprimirautor}}
+    \begin{center}
 
-\vspace*{\fill}\vspace*{\fill}
+    {\MakeTextUppercase{\ABNTEXchapterfont\large\imprimirautor}}
 
-{\MakeTextUppercase{\ABNTEXchapterfont\bfseries\large\imprimirtitulo}}
+    \vspace*{\fill}\vspace*{\fill}
 
-\vspace*{\fill}
+    {\MakeTextUppercase{\ABNTEXchapterfont\bfseries\large\imprimirtitulo}}
 
-\abntex@ifnotempty{\imprimirpreambulo}{%
-  \hspace{.45\textwidth}
-  {\begin{minipage}{.5\textwidth}
-  	\SingleSpacing
-  	\imprimirpreambulo\par
-  	\vspace*{8pt}
-  	{\imprimirorientadorRotulo~\imprimirorientador\par}
-  	\abntex@ifnotempty{\imprimircoorientador}{%
-  	{\imprimircoorientadorRotulo~\imprimircoorientador}%
-	}%
-  \end{minipage}}%
-}%
-\vspace*{\fill}\vspace*{\fill}
+    \vspace*{\fill}
 
-{\large\bfseries\imprimirlocal}
-\par
-{\large\bfseries\imprimirdata}
-\vspace*{2cm}
-\end{center}
+    \abntex@ifnotempty{\imprimirpreambulo}{%
+      \hspace{.45\textwidth}
+      {\begin{minipage}{.5\textwidth}
+      	\SingleSpacing
+      	\imprimirpreambulo\par
+      	\vspace*{8pt}
+      	{\imprimirorientadorRotulo~\imprimirorientador\par}
+      	\abntex@ifnotempty{\imprimircoorientador}{%
+      	{\imprimircoorientadorRotulo~\imprimircoorientador}%
+    	}%
+      \end{minipage}}%
+    }%
+    \vspace*{\fill}\vspace*{\fill}
+
+    {\large\bfseries\imprimirlocal}
+    \par
+    {\large\bfseries\imprimirdata}
+    \vspace*{2cm}
+    \end{center}
 }
 
 
@@ -225,7 +225,7 @@
 \renewcommand{\cftparagraphpagefont}{\normalsize\selectfont}
 
 % --------------------------------------------------------
-% Usando os pacotes hyperref, uppercase... 
+% Usando os pacotes hyperref, uppercase...
 % Para deixar a section do toc uppercase precisa de:
 % --------------------------------------------------------
 \usepackage{textcase}
