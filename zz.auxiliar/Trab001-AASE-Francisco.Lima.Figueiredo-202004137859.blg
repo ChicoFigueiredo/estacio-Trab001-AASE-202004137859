@@ -1,0 +1,135 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7440 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+I couldn't open auxiliary file PreTextuais/Capa.aux
+---line 24 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{PreTextuais/Capa.aux
+ :                             }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+I couldn't open auxiliary file PreTextuais/FolhadeRosto.aux
+---line 29 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{PreTextuais/FolhadeRosto.aux
+ :                                     }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 35 items.
+I couldn't open auxiliary file PreTextuais/FichaCatalografica.aux
+---line 31 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{PreTextuais/FichaCatalografica.aux
+ :                                           }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+I couldn't open auxiliary file PreTextuais/Epigrafe.aux
+---line 32 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{PreTextuais/Epigrafe.aux
+ :                                 }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+I couldn't open auxiliary file PreTextuais/Resumo.aux
+---line 34 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{PreTextuais/Resumo.aux
+ :                               }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+I couldn't open auxiliary file Textuais/Capitulo01.aux
+---line 36 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{Textuais/Capitulo01.aux
+ :                                }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+I couldn't open auxiliary file Textuais/Capitulo02.aux
+---line 38 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{Textuais/Capitulo02.aux
+ :                                }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+I couldn't open auxiliary file Textuais/Capitulo03.aux
+---line 41 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{Textuais/Capitulo03.aux
+ :                                }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+I couldn't open auxiliary file PosTextuais/Glossario.aux
+---line 48 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{PosTextuais/Glossario.aux
+ :                                  }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+I couldn't open auxiliary file PosTextuais/Apendices.aux
+---line 49 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{PosTextuais/Apendices.aux
+ :                                  }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+I couldn't open auxiliary file PosTextuais/Anexos.aux
+---line 52 of file zz.auxiliar/Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.aux
+ : \@input{PosTextuais/Anexos.aux
+ :                               }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: abntex2-alf.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Database file #1: abntex2-options.bib
+Database file #2: PosTextuais/Biblio-Trab0001.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 1 entry,
+            6714 wiz_defined-function locations,
+            1208 strings with 9726 characters,
+and the built_in function-call counts, 891 in all, are:
+= -- 192
+> -- 0
+< -- 0
++ -- 46
+- -- 0
+* -- 36
+:= -- 175
+add.period$ -- 0
+call.type$ -- 1
+change.case$ -- 3
+chr.to.int$ -- 1
+cite$ -- 0
+duplicate$ -- 3
+empty$ -- 40
+format.name$ -- 0
+if$ -- 204
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 10
+newline$ -- 8
+num.names$ -- 0
+pop$ -- 28
+preamble$ -- 1
+purify$ -- 3
+quote$ -- 0
+skip$ -- 80
+stack$ -- 1
+substring$ -- 49
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 2
+width$ -- 0
+write$ -- 8
+(There were 11 error messages)

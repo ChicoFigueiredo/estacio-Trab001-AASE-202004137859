@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.17)  17 MAY 2020 18:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.17)  17 MAY 2020 19:21
 entering extended mode
 **./Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 (Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
@@ -1611,8 +1611,6 @@ ux
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\Textuais/Capitulo03.aux)
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
-ÇÃO\Trab001\zz.auxiliar\Textuais/Capitulo04.aux)
-(D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\PosTextuais/Glossario.aux)
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\PosTextuais/Apendices.aux)
@@ -2020,38 +2018,30 @@ Package pdftex.def Info: fig/imigrantes-2010.png  used on input line 58.
 
 
 ]
-\openout2 = `Textuais/Capitulo04.aux'.
+(D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
+ÇÃO\Trab001\zz.auxiliar\Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.b
+bl
+(D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
+ÇÃO\Trab001\zz.auxiliar\Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.b
+rf)
+\tf@brf=\write6
+\openout6 = `Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.brf'.
 
-
-(Textuais/Capitulo04.tex [18
-
+ [18
 
 
 ]
+bibitemlist
 
-LaTeX Warning: Citation `Magalhaes2018' on page 19 undefined on input line 3.
+LaTeX Warning: Empty `thebibliography' environment on input line 8.
 
-)
-Runaway argument?
-! File ended while scanning use of \language@active@arg".
-<inserted text> 
-                \par 
-l.126 \include{Textuais/Capitulo04}
-                                   
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-[19]
-No file Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.bbl.
+) [19]
 \openout2 = `PosTextuais/Glossario.aux'.
 
-(PosTextuais/Glossario.tex)
+ (PosTextuais/Glossario.tex)
 \openout2 = `PosTextuais/Apendices.aux'.
 
  (PosTextuais/Apendices.tex [20
-
 
 
 
@@ -2106,15 +2096,16 @@ ux
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\Textuais/Capitulo03.aux)
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
-ÇÃO\Trab001\zz.auxiliar\Textuais/Capitulo04.aux)
-(D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\PosTextuais/Glossario.aux)
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\PosTextuais/Apendices.aux)
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\PosTextuais/Anexos.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 142.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
+Package rerunfilecheck Info: File `Trab001-AASE-Francisco.Lima.Figueiredo-20200
+4137859.brf' has not changed.
+(rerunfilecheck)             Checksum: EE22097A7EA5C8BD2C226CC12439929E;182.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2125,11 +2116,11 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 142.
  ) 
 Here is how much of TeX's memory you used:
- 56692 strings out of 480761
- 1395895 string characters out of 2909411
- 2251315 words of memory out of 3000000
- 71520 multiletter control sequences out of 15000+200000
- 649647 words of font info for 162 fonts, out of 3000000 for 9000
+ 56708 strings out of 480761
+ 1396254 string characters out of 2909411
+ 2250122 words of memory out of 3000000
+ 71539 multiletter control sequences out of 15000+200000
+ 649556 words of font info for 161 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,15n,138p,1004b,896s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Prog/MikTex29/fonts/enc/dvips/lm/lm-ec.enc}<C:/Prog/MikTex29/fonts/type1/
@@ -2141,9 +2132,9 @@ s12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmssbx10.pfb><C:/Prog/MikTex29/
 fonts/type1/public/lm/lmtt10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (29 pages, 380117 bytes).
+2004137859.pdf (29 pages, 378881 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
+ 268 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
  37602 words of extra memory for PDF output out of 42996 (max. 10000000)
 
