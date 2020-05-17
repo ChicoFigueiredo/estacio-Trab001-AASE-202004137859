@@ -5,4 +5,10 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[CODEPLAN/SEPLAN]{CODEPLANSEPLAN2013}
+\abntrefinfo{CODEPLAN/SEPLAN}{CODEPLAN/SEPLAN}{}
+{CODEPLAN/SEPLAN. \emph{Evolução dos movimentos migratórios para o Distrito
+  Federal 1959-2010}. [s.n.]. Dispon{\'\i}vel em:
+  \url{http://www.codeplan.df.gov.br/wp-content/uploads/2018/02/Demografia\_em\_Foco\_7-Evolução\_dos\_Movimentos\_Migratórios\_para\_o\_Distrito\_Federal-1959-2010.pdf}.}
+
 \end{thebibliography}

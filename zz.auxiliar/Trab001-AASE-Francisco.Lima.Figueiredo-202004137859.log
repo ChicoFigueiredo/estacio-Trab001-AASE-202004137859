@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 02:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 02:15
 entering extended mode
 **./Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 (Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
@@ -1944,7 +1944,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
 
 ]
-<fig/imigrantes-1959.png, id=95, 327.47343pt x 262.73157pt>
+
+Package hyperref Warning: Suppressing empty link on input line 5.
+
+<fig/imigrantes-1959.png, id=96, 327.47343pt x 262.73157pt>
 File: fig/imigrantes-1959.png Graphic file (type png)
 <use fig/imigrantes-1959.png>
 Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 8.
@@ -1952,20 +1955,19 @@ Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 8.
 ) [9 <./fig/imigrantes-1959.png (PNG copy)>]
 \openout2 = `Textuais/Capitulo03.aux'.
 
-
-(Textuais/Capitulo03.tex [10
-
+ (Textuais/Capitulo03.tex [10
 
 
-]) [11]
+
+])
+[11]
 \openout2 = `Textuais/Capitulo04.aux'.
 
  (Textuais/Capitulo04.tex [12
 
 
 
-]) [13]
-[14
+]) [13] [14
 
 
 ]
@@ -1982,9 +1984,6 @@ rf)
 
 ]
 bibitemlist
-
-LaTeX Warning: Empty `thebibliography' environment on input line 8.
-
 ) [17]
 \openout2 = `PosTextuais/Apendices.aux'.
 
@@ -2050,7 +2049,7 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `Trab001-AASE-Francisco.Lima.Figueiredo-20200
 4137859.brf' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 62BF64BE6B7C91EAF41D78309528C6C0;50.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2058,11 +2057,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
  ) 
 Here is how much of TeX's memory you used:
- 56446 strings out of 480892
- 1391690 string characters out of 2913453
- 2223681 words of memory out of 3000000
- 71206 multiletter control sequences out of 15000+200000
- 642576 words of font info for 131 fonts, out of 3000000 for 9000
+ 56460 strings out of 480892
+ 1391964 string characters out of 2913453
+ 2224058 words of memory out of 3000000
+ 71215 multiletter control sequences out of 15000+200000
+ 642796 words of font info for 133 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,15n,138p,1004b,896s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Prog/MikTex29/fonts/enc/dvips/lm/lm-ec.enc}<C:/Prog/MikTex29/fonts/type1/
@@ -2073,9 +2072,9 @@ lm/lmr12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmri12.pfb><C:/Prog/MikTex
 sbx10.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmtt10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (27 pages, 284794 bytes).
+2004137859.pdf (27 pages, 289502 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
+ 263 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
  35557 words of extra memory for PDF output out of 35830 (max. 10000000)
 
