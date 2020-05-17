@@ -24,6 +24,9 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Database file #1: abntex2-options.bib
 Database file #2: PosTextuais/Biblio-Trab0001.bib
+Warning--entry type for "Magalhaes2018" isn't style-file defined
+--line 53 of file PosTextuais/Biblio-Trab0001.bib
+Warning--I didn't find a database entry for "Gadotti2000"
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
@@ -33,44 +36,45 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 3 entries,
+You've used 4 entries,
             6714 wiz_defined-function locations,
-            1219 strings with 10092 characters,
-and the built_in function-call counts, 5095 in all, are:
-= -- 753
-> -- 30
-< -- 155
-+ -- 211
-- -- 10
-* -- 264
-:= -- 667
-add.period$ -- 7
-call.type$ -- 3
-change.case$ -- 15
-chr.to.int$ -- 3
-cite$ -- 2
-duplicate$ -- 540
-empty$ -- 163
-format.name$ -- 46
-if$ -- 975
+            1228 strings with 10381 characters,
+and the built_in function-call counts, 7920 in all, are:
+= -- 1150
+> -- 45
+< -- 273
++ -- 335
+- -- 15
+* -- 417
+:= -- 991
+add.period$ -- 11
+call.type$ -- 4
+change.case$ -- 21
+chr.to.int$ -- 4
+cite$ -- 3
+duplicate$ -- 918
+empty$ -- 220
+format.name$ -- 69
+if$ -- 1471
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 48
-newline$ -- 16
-num.names$ -- 10
-pop$ -- 89
+missing$ -- 64
+newline$ -- 21
+num.names$ -- 15
+pop$ -- 111
 preamble$ -- 1
-purify$ -- 9
+purify$ -- 12
 quote$ -- 0
-skip$ -- 606
+skip$ -- 991
 stack$ -- 1
-substring$ -- 238
-swap$ -- 180
-text.length$ -- 1
+substring$ -- 375
+swap$ -- 307
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 15
+while$ -- 22
 width$ -- 0
-write$ -- 37
+write$ -- 51
+(There were 2 warnings)
