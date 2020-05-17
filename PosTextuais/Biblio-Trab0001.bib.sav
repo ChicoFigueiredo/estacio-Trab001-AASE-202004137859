@@ -167,4 +167,10 @@
   urldate     = {2020-05-17},
 }
 
+@Book{Dias1994,
+  author = {Genebaldo Freire Dias},
+  date   = {1994},
+  title  = {Educação Ambiental: princípios e práticas.},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}

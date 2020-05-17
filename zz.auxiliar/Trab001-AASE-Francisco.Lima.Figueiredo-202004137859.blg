@@ -24,6 +24,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Database file #1: abntex2-options.bib
 Database file #2: PosTextuais/Biblio-Trab0001.bib
+Warning--I didn't find a database entry for "Dias1994"
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
@@ -36,7 +37,7 @@ Warning--campo year vazio ou faltando em CODEPLANSEPLAN2013
 +---------------------------------------------------------+
 You've used 2 entries,
             6714 wiz_defined-function locations,
-            1213 strings with 10001 characters,
+            1215 strings with 10017 characters,
 and the built_in function-call counts, 4436 in all, are:
 = -- 703
 > -- 15
@@ -75,4 +76,4 @@ warning$ -- 1
 while$ -- 8
 width$ -- 0
 write$ -- 22
-(There was 1 warning)
+(There were 2 warnings)
