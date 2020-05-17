@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 02:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.5.2)  17 MAY 2020 02:39
 entering extended mode
 **./Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 (Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
@@ -1950,34 +1950,53 @@ Package hyperref Warning: Suppressing empty link on input line 5.
 <fig/imigrantes-1959.png, id=96, 327.47343pt x 262.73157pt>
 File: fig/imigrantes-1959.png Graphic file (type png)
 <use fig/imigrantes-1959.png>
-Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 9.
+Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 10.
 (pdftex.def)             Requested size: 318.49861pt x 255.53082pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./fig/imigrantes-1959.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
 File: fig/imigrantes-1959.png Graphic file (type png)
 <use fig/imigrantes-1959.png>
-Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 16.
+Package pdftex.def Info: fig/imigrantes-1959.png  used on input line 18.
 (pdftex.def)             Requested size: 318.49861pt x 255.53082pt.
-<fig/imigrantes-2010.png, id=97, 341.02406pt x 243.91125pt>
+<fig/imigrantes-2010.png, id=126, 341.02406pt x 243.91125pt>
 File: fig/imigrantes-2010.png Graphic file (type png)
 <use fig/imigrantes-2010.png>
-Package pdftex.def Info: fig/imigrantes-2010.png  used on input line 23.
+Package pdftex.def Info: fig/imigrantes-2010.png  used on input line 25.
 (pdftex.def)             Requested size: 318.49861pt x 227.81393pt.
-) [9 <./fig/imigrantes-1959.png (PNG copy)>] [10 <./fig/imigrantes-2010.png (PN
-G copy)>]
+)
+[15] [16 <./fig/imigrantes-2010.png (PNG copy)>]
 \openout2 = `Textuais/Capitulo03.aux'.
 
- (Textuais/Capitulo03.tex) [11
+ (Textuais/Capitulo03.tex)
+[17
 
 
 
 ]
 \openout2 = `Textuais/Capitulo04.aux'.
 
- (Textuais/Capitulo04.tex [12
+ (Textuais/Capitulo04.tex [18
 
 
 
-])
-[13] [14
+]) [19] [20
 
 
 ]
@@ -1990,14 +2009,14 @@ rf)
 \tf@brf=\write6
 \openout6 = `Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.brf'.
 
- [15] [16
+ [21] [22
 
 ]
 bibitemlist
-) [17]
+) [23]
 \openout2 = `PosTextuais/Apendices.aux'.
 
- (PosTextuais/Apendices.tex [18
+ (PosTextuais/Apendices.tex [24
 
 
 ]
@@ -2005,14 +2024,14 @@ bibitemlist
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 13.
 
-[19
+[25
 
-] [20]) [21
+] [26]) [27
 
 ]
 \openout2 = `PosTextuais/Anexos.aux'.
 
- (PosTextuais/Anexos.tex [22
+ (PosTextuais/Anexos.tex [28
 
 
 
@@ -2021,9 +2040,9 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 13.
 
-[23
+[29
 
-] [24]) [25
+] [30]) [31
 
 ] 
 AED: lastpage setting LastPage
@@ -2067,11 +2086,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
  ) 
 Here is how much of TeX's memory you used:
- 56480 strings out of 480892
- 1392344 string characters out of 2913453
- 2224234 words of memory out of 3000000
+ 56538 strings out of 480892
+ 1392938 string characters out of 2913453
+ 2243095 words of memory out of 3000000
  71227 multiletter control sequences out of 15000+200000
- 647319 words of font info for 136 fonts, out of 3000000 for 9000
+ 649685 words of font info for 162 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,15n,138p,1004b,896s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Prog/MikTex29/fonts/enc/dvips/lm/lm-ec.enc}<C:/Prog/MikTex29/fonts/type1/
@@ -2083,9 +2102,9 @@ s12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmssbx10.pfb><C:/Prog/MikTex29/
 fonts/type1/public/lm/lmtt10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (27 pages, 360301 bytes).
+2004137859.pdf (33 pages, 380439 bytes).
 PDF statistics:
- 270 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
+ 296 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
  37610 words of extra memory for PDF output out of 42996 (max. 10000000)
 
