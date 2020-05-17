@@ -126,9 +126,27 @@
 }
 
 @Book{CODEPLANSEPLAN2013,
-  author = {CODEPLAN/SEPLAN},
-  date   = {2013-05-30},
-  title  = {Evolução dos movimentos migratórios para o Distrito Federal 1959-2010},
+  author  = {CODEPLAN/SEPLAN},
+  date    = {2013-05-30},
+  title   = {Evolução dos movimentos migratórios para o Distrito Federal 1959-2010},
+  url     = {http://www.codeplan.df.gov.br/wp-content/uploads/2018/02/Demografia_em_Foco_7-Evolução_dos_Movimentos_Migratórios_para_o_Distrito_Federal-1959-2010.pdf},
+  urldate = {2020-05-17},
+}
+
+@Online{MinistérioEducacao20170322,
+  author = {Ministério da Educação},
+  editor = {YouTube},
+  date   = {2017-03-22},
+  title  = {Escola do DF desenvolve projetos sustentáveis},
+  url    = {https://www.youtube.com/watch?v=gNHgCbPgL40},
+}
+
+@Online{TVBrasil20161220,
+  author = {TV Brasil},
+  date   = {2016-12-20},
+  editor = {YouTube},
+  title  = {Entrevista preservação do meio ambiente},
+  url    = {https://www.youtube.com/watch?v=-RBt_2lEpqI},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
