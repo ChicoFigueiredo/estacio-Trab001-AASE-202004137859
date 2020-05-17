@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.17)  17 MAY 2020 20:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.17)  17 MAY 2020 20:32
 entering extended mode
 **./Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
 (Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.tex
@@ -2040,13 +2040,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--17
  []
 
 ) [19]
+(D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
+ÇÃO\Trab001\zz.auxiliar\Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.b
+bl
+(D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
+ÇÃO\Trab001\zz.auxiliar\Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.b
+rf)
+\tf@brf=\write6
+\openout6 = `Trab001-AASE-Francisco.Lima.Figueiredo-202004137859.brf'.
+
+ [20
+
+
+]
+bibitemlist
+
+LaTeX Warning: Empty `thebibliography' environment on input line 8.
+
+) [21]
 \openout2 = `PosTextuais/Glossario.aux'.
 
  (PosTextuais/Glossario.tex)
 \openout2 = `PosTextuais/Apendices.aux'.
 
- (PosTextuais/Apendices.tex [20
-
+ (PosTextuais/Apendices.tex [22
 
 
 
@@ -2056,14 +2073,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--17
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 13.
 
-[21
+[23
 
-] [22]) [23
+] [24]) [25
 
 ]
 \openout2 = `PosTextuais/Anexos.aux'.
 
- (PosTextuais/Anexos.tex [24
+ (PosTextuais/Anexos.tex [26
 
 
 
@@ -2072,9 +2089,9 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 13.
 
-[25
+[27
 
-] [26]) [27
+] [28]) [29
 
 ] 
 AED: lastpage setting LastPage
@@ -2109,7 +2126,10 @@ ux
 (D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIOLÓGICOS-DA-EDUCA
 ÇÃO\Trab001\zz.auxiliar\PosTextuais/Anexos.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
+Package rerunfilecheck Info: File `Trab001-AASE-Francisco.Lima.Figueiredo-20200
+4137859.brf' has not changed.
+(rerunfilecheck)             Checksum: 3E6F6538B04C2E0875B76C426C3E7E15;274.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2120,10 +2140,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
  ) 
 Here is how much of TeX's memory you used:
- 56692 strings out of 480761
- 1395855 string characters out of 2909411
+ 56730 strings out of 480761
+ 1397142 string characters out of 2909411
  2251315 words of memory out of 3000000
- 71519 multiletter control sequences out of 15000+200000
+ 71547 multiletter control sequences out of 15000+200000
  649738 words of font info for 163 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,15n,138p,1004b,896s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2136,9 +2156,9 @@ s12.pfb><C:/Prog/MikTex29/fonts/type1/public/lm/lmssbx10.pfb><C:/Prog/MikTex29/
 fonts/type1/public/lm/lmtt10.pfb>
 Output written on D:\Estudar\#01-Matematica\01-ASPECTOS-ANTROPOLÓGICOS-E-SOCIO
 LÓGICOS-DA-EDUCAÇÃO\Trab001\zz.pdf\Trab001-AASE-Francisco.Lima.Figueiredo-20
-2004137859.pdf (29 pages, 380174 bytes).
+2004137859.pdf (31 pages, 382110 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 37602 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 282 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 37610 words of extra memory for PDF output out of 42996 (max. 10000000)
 
