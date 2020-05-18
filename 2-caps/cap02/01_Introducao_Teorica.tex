@@ -77,10 +77,10 @@ A tabela abaixo descreve o IDH das regiões administratívas do Distrito Federal
 % \usepackage{multirow}
 % \usepackage[table,xcdraw]{xcolor}
 % If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
-{\tiny
-    \begin{center}
-        \begin{table}[]
-            \centering
+\begin{center}
+    \begin{table}[]
+        \centering
+        \resizebox{.6\textwidth}{!}{
             \begin{tabular}{llllll}
                 \rowcolor[HTML]{EAECF0}
                 \multicolumn{1}{c}{\cellcolor[HTML]{EAECF0}{\color[HTML]{202122} }} &
@@ -265,11 +265,12 @@ A tabela abaixo descreve o IDH das regiões administratívas do Distrito Federal
                 \rowcolor[HTML]{F8F9FA}
                 \multicolumn{6}{c}{\cellcolor[HTML]{F8F9FA}{\color[HTML]{0B0080} Fercal}}
             \end{tabular}
-            \caption{IDH das Regiões Administrativas de Brasília.\\ O IDH-M é uma média geométrica entre o IDH da renda (IDH-R), IDH da longevidade (IDH-L) e IDH educacional (IDH-E).}
-            \label{table:IDH}
-        \end{table}
-    \end{center}
-}
+        }
+        \caption{IDH das Regiões Administrativas de Brasília.\\ O IDH-M é uma média geométrica entre o IDH da renda (IDH-R), IDH da longevidade (IDH-L) e IDH educacional (IDH-E).}
+        \label{table:IDH}
+    \end{table}
+\end{center}
+
 Ao observar
 
 Os índices de criminalidade são altos principalmente no Entorno do Distrito Federal. Segundo sociólogos, a criminalidade no Distrito Federal, principalmente nas cidades-satélites, é uma herança do crescimento desordenado, ainda que assentado em núcleos urbanos planejados. Os níveis de criminalidade no DF estão entre os maiores do Brasil, chegando ao ponto de haver uma média de até dois assassinatos diários. Em 2012, houve 1031 homicídios, com taxa de 38,9 por 100 mil habitantes, a 478º maior do país. Existem diversas propostas para tentar diminuir a criminalidade na capital: entre elas, um maior policiamento, medida esta que, aplicada, tem levado a uma retração da violência.\\
