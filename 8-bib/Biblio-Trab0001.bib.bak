@@ -39,25 +39,25 @@
   urldate = {2020-05-16},
 }
 
-@Online{WikiPediaBrasilia20200518,
-  author    = {Vários},
-  date      = {2020-04-28},
-  editor    = {WikiPédia},
+@Online{Doyle2016,
+  author    = {Hélio Doyle},
+  date      = {2016-09-13},
+  editor    = {Jornal de Brasília},
   timestamp = {2020-05-18},
-  title     = {Brasília},
-  url       = {https://pt.wikipedia.org/wiki/Brasília},
+  title     = {Brasília tinha de ter a melhor educação do país},
+  url       = {https://jornaldebrasilia.com.br/helio-doyle/brasilia-tinha-de-ter-a-melhor-educacao-do-pais/},
   urldate   = {2020-05-18},
-  year      = {2020},
+  year      = {2016},
 }
 
-@Online{Magalhaes2018,
-  author  = {Sueli Santana Magalhães},
-  editor  = {REVISTA PARTES},
-  date    = {2018-06-05},
+@Online{MuseuEducacao2020,
+  author  = {Museu da Educação},
+  date    = {2020},
+  editor  = {Museu da Educação},
+  title   = {A Construção de Brasília},
+  url     = {http://www.museudaeducacao.com.br/cte-39/a-construcao-de-brasilia/},
+  urldate = {2020-05-18},
   year    = {2020},
-  title   = {A importância da educação ambiental no processo de ensino-aprendizagem infantil},
-  url     = {https://www.partes.com.br/2018/06/05/a-importancia-da-educacao-ambiental-no-processo-de-ensino-aprendizagem-infantil/},
-  urldate = {2020-05-16},
 }
 
 @Online{Antonce2019,
@@ -212,6 +212,47 @@
   url     = {https://www.agenciabrasilia.df.gov.br/2020/04/28/acordo-estuda-forma-para-recolhimento-de-eletroeletronicos/},
   urldate = {2020-05-16},
   year    = {2020},
+}
+
+@Online{WikiPediaBrasilia20200518,
+  author    = {WikiPédia},
+  date      = {2020-04-28},
+  editor    = {WikiPédia},
+  timestamp = {2020-05-18},
+  title     = {Brasília},
+  url       = {https://pt.wikipedia.org/wiki/Brasília},
+  urldate   = {2020-05-18},
+  year      = {2020},
+}
+
+@Article{Pereira2005,
+  author    = {Eva Waisros Pereira},
+  journal   = {ANPED},
+  title     = {Anisio Teixeira e o plano de educação de Brasília},
+  year      = {2005},
+  abstract  = {O presente estudo propõe-se analisar o plano educacional de Brasília, formulado por Anísio Teixeira, no final da década de 50},
+  timestamp = {2020-05-18},
+  url       = {http://www.anped.org.br/sites/default/files/gt02-667-intok.pdf},
+}
+
+@Online{Magalhaes2018,
+  author  = {Sueli Santana Magalhães},
+  editor  = {REVISTA PARTES},
+  date    = {2018-06-05},
+  year    = {2020},
+  title   = {A importância da educação ambiental no processo de ensino-aprendizagem infantil},
+  url     = {https://www.partes.com.br/2018/06/05/a-importancia-da-educacao-ambiental-no-processo-de-ensino-aprendizagem-infantil/},
+  urldate = {2020-05-16},
+}
+
+@Online{CorreioBraziliense2018,
+  author  = {Correio Braziliense},
+  date    = {2018},
+  editor  = {Correio Braziliense},
+  title   = {Brasília Patrimônio Vivo - Educação},
+  url     = {http://especiais.correiobraziliense.com.br/brasilia-patrimonio-vivo-educacao},
+  urldate = {2020-05-16},
+  year    = {2018},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
