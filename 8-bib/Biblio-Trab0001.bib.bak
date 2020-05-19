@@ -54,8 +54,8 @@
   author  = {Museu da Educação},
   date    = {2020},
   editor  = {Museu da Educação},
-  title   = {A Construção de Brasília},
-  url     = {http://www.museudaeducacao.com.br/cte-39/a-construcao-de-brasilia/},
+  title   = {Primeiras Escolas},
+  url     = {http://www.museudaeducacao.com.br/cte-40/primeiras-escolas/},
   urldate = {2020-05-18},
   year    = {2020},
 }
@@ -253,6 +253,65 @@
   url     = {http://especiais.correiobraziliense.com.br/brasilia-patrimonio-vivo-educacao},
   urldate = {2020-05-16},
   year    = {2018},
+}
+
+@Article{Geraldino2014,
+  author    = {Geraldino, Carlos},
+  journal   = {GEOUSP Espaço e Tempo (Online)},
+  title     = {Uma definição de meio ambiente},
+  year      = {2014},
+  month     = {set.},
+  number    = {2},
+  pages     = {403-415},
+  volume    = {18},
+  doi       = {10.11606/issn.2179-0892.geousp.2014.84540},
+  timestamp = {2020-05-18},
+  url       = {http://www.periodicos.usp.br/geousp/article/view/84540},
+}
+
+@Article{McReynolds1999,
+  author    = {Samuel A. McReynolds},
+  journal   = {SciElo},
+  title     = {Guia para o iniciante em sociologia do meio ambiente: definição, lista de jornais e bibliografia},
+  year      = {1999},
+  timestamp = {2020-05-18},
+  url       = {https://www.scielo.br/scielo.php?pid=S1414-753X1999000200012&script=sci_arttext&tlng=pt},
+}
+
+@Article{CATTON1978,
+  author  = {W R CATTON},
+  journal = {The American Sociologist},
+  title   = {Environmental Sociology: A New Paradigm,},
+  year    = {1978},
+  pages   = {41-49},
+  volume  = {13},
+}
+
+@Article{REDCLIFT1997,
+  author  = {M. REDCLIFT},
+  journal = {The International Handbook of Environmental Sociology},
+  title   = {Sustainability and Environmental Change},
+  year    = {1997},
+}
+
+@Book{Marx1961,
+  author    = {Karl Marx},
+  publisher = {Foreign Language Publishing House},
+  title     = {Economic and Philosophical Manuscripts of 1844},
+  year      = {1961},
+  address   = {Moscow},
+}
+
+@Book{BUTTEL1996,
+  author = {BUTTEL, F.H.},
+  title  = {Social Institutions and Environmental Change},
+  year   = {1996},
+}
+
+@Book{VAILLANCOURT1995,
+  author = {VAILLANCOURT, J.-G.},
+  title  = {Sociology of the Environment: From Human Ecology to Ecosociology},
+  year   = {1995},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
