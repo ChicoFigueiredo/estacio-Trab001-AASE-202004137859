@@ -354,6 +354,14 @@
   url    = {https://www.youtube.com/watch?v=gNHgCbPgL40},
 }
 
+@Book{Duarte2002,
+  author    = {Laura Maria Goulart Duarte; Suzi Huff Theodoro; Cleide Bezerra da Silva},
+  editor    = {Garamond},
+  publisher = {Garamond},
+  title     = {Dilemas do cerrado : entre o ecologicamente (in)correto e o socialmente (in)justo},
+  year      = {2002},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectoryLatex-chico-CEREBRO:D:\\Estudar\\#01-Matematica\\01-Aspectos.Antropologicos.Sociologicos.Educacao\\Trab001;}
