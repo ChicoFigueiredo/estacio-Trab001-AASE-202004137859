@@ -70,13 +70,13 @@
   urldate = {2020-05-16},
 }
 
-@Online{JP2015,
-  author = {JP Filmes Arte e Entretenimento},
-  editor = {YouTube},
-  date   = {2015-05-16},
-  year   = {2015},
-  title  = {O Meio Ambiente - A Sustentabilidade nas Escolas - (Documentário)},
-  url    = {https://www.youtube.com/watch?v=SKy3lFa7nC0},
+@Online{SSPDF2020,
+  author = {Secretaria de Segurança Pública do Distrito Federal},
+  date   = {2020-05-20},
+  editor = {Secretaria de Segurança Pública do Distrito Federal},
+  title  = {Dados DF, Região Administrativa e RISP},
+  url    = {http://www.ssp.df.gov.br/dados-por-regiao-administrativa/},
+  year   = {2020},
 }
 
 @Article{Porto2009,
@@ -203,14 +203,13 @@
   year    = {2000},
 }
 
-@Online{AgenciaBrasilia20200424Horta,
-  author  = {Agência Brasilia},
-  editor  = {Agência Brasilia},
-  date    = {2020-04-28},
-  year    = {2020},
-  title   = {Acordo estuda forma para recolhimento de eletroeletrônicos},
-  url     = {https://www.agenciabrasilia.df.gov.br/2020/04/28/acordo-estuda-forma-para-recolhimento-de-eletroeletronicos/},
-  urldate = {2020-05-16},
+@Online{GazetaDoPovo20190805,
+  author  = {Gazeta do Povo},
+  date    = {2019-08-05},
+  editor  = {Gazeta do Povo},
+  title   = {Atlas da Violência 2019 por municípios},
+  url     = {https://infograficos.gazetadopovo.com.br/seguranca-publica/atlas-da-violencia-2019-por-municipios/},
+  urldate = {2020-05-20},
   year    = {2020},
 }
 
@@ -312,6 +311,37 @@
   author = {VAILLANCOURT, J.-G.},
   title  = {Sociology of the Environment: From Human Ecology to Ecosociology},
   year   = {1995},
+}
+
+@Online{JP2015,
+  author = {JP Filmes Arte e Entretenimento},
+  editor = {YouTube},
+  date   = {2015-05-16},
+  year   = {2015},
+  title  = {O Meio Ambiente - A Sustentabilidade nas Escolas - (Documentário)},
+  url    = {https://www.youtube.com/watch?v=SKy3lFa7nC0},
+}
+
+@Book{IPEA2019,
+  author    = {Daniel Cerqueira},
+  editor    = {IPEA},
+  publisher = {IPEA},
+  title     = {Atlas da Violência - Retratos dos Municípios Brasileiros},
+  year      = {2019},
+  month     = aug,
+  timestamp = {2020-05-20},
+  url       = {https://especiais.gazetadopovo.com.br/wp-content/uploads/sites/19/2019/08/05095855/190802_atlas_da_violencia_2019_municipios.pdf},
+}
+
+@Online{AgenciaBrasilia20200424Horta,
+  author  = {Agência Brasilia},
+  editor  = {Agência Brasilia},
+  date    = {2020-04-28},
+  year    = {2020},
+  title   = {Acordo estuda forma para recolhimento de eletroeletrônicos},
+  url     = {https://www.agenciabrasilia.df.gov.br/2020/04/28/acordo-estuda-forma-para-recolhimento-de-eletroeletronicos/},
+  urldate = {2020-05-16},
+  year    = {2020},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
