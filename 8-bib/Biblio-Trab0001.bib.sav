@@ -372,6 +372,14 @@
   year      = {2019},
 }
 
+@Book{Balieiro2014,
+  author    = {Balieiro, Fernando de Figueiredo},
+  editor    = {Universidade Estácio de Sá},
+  publisher = {Universidade Estácio de Sá},
+  title     = {Aspectos antropológicos e sociológicos da Educação},
+  year      = {2014},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectoryLatex-chico-CEREBRO:D:\\Estudar\\#01-Matematica\\01-Aspectos.Antropologicos.Sociologicos.Educacao\\Trab001;}
