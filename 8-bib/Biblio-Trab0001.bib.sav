@@ -380,6 +380,16 @@
   year      = {2014},
 }
 
+@Online{Cortella2014,
+  author  = {Mario Sergio Cortella},
+  date    = {2014-05-12},
+  editor  = {YouTube},
+  title   = {O que é Ética},
+  url     = {https://www.youtube.com/watch?v=2gVCs2fIILo},
+  urldate = {2020-05-20},
+  year    = {2014},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectoryLatex-chico-CEREBRO:D:\\Estudar\\#01-Matematica\\01-Aspectos.Antropologicos.Sociologicos.Educacao\\Trab001;}
